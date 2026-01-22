@@ -1,1 +1,1 @@
-web: python кибертермит_финал.py
+web: python личка_финал.py
